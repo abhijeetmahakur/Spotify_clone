@@ -1,4 +1,10 @@
-# Local editor and operating-system files
-.vscode/
+# Operating System & Editor files
 .DS_Store
 Thumbs.db
+*.log
+.vscode/
+.idea/
+
+# Node
+node_modules/
+npm-debug.log*

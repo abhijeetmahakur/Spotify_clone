@@ -1,0 +1,19 @@
+{
+  "name": "spotify-clone",
+  "version": "1.0.0",
+  "description": "Interactive Spotify web music player built with HTML5, CSS3, and JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve . -l 8000",
+    "dev": "npx serve . -l 8000"
+  },
+  "keywords": [
+    "spotify-clone",
+    "music-player",
+    "javascript",
+    "html5-audio",
+    "web-development"
+  ],
+  "author": "Abhijeet Mahakur",
+  "license": "MIT"
+}
